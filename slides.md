@@ -6,8 +6,8 @@ Nicolas Sauret
 
 <!-- .element: style="font-size:1.5rem" -->
 
-_La publication savante en contexte numérique_ - ACFAS 2017  
-12-05-2017
+_Journée doctorale du laboratoire DICEN-IDF_ - 2017  
+11-09-2017
 
 <!-- .element: style="font-size:1.5rem" -->
 
@@ -17,7 +17,7 @@ _La publication savante en contexte numérique_ - ACFAS 2017
 
 Bonjour à tous,
 
-Je vais vous présenter les réflexions en cours à la chaire sur les écritures numériques, sur ce chantier à première vue très banale de la fabrique d'une revue en ligne, qui elle ne l'est pas.
+Je vais vous présenter un travail qui est le coeur du volet expérimental de ma thèse et qui s'inscrit dans les travaux en cours à la chaire sur les écritures numériques. C'est un chantier à première vue relativement banale d'une fabrique d'une revue en ligne.
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 ### Sommaire
@@ -30,16 +30,24 @@ Je vais vous présenter les réflexions en cours à la chaire sur les écritures
 ===
 
 
-Bien entendu le chantier ne l'est pas non plus, c'est ce que je vais essayer de faire passer ici, en faisant d'abord quelques pas en arrière pour mieux sauter dans le sujet et dans les pistes que nous explorons.
+Pourtant, nous avons pris certaines orientations assez radicales qui en font un chantier peu banal.
+Je vais rapidement présenter de quels constats nous partons avant de présenter les pistes que nous explorons.
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/senspublic.png" data-background-size="contain"-->
 
 
 ===
-La revue Sens Public est ce qu'on appelle un pure player, c'est-à-dire qu'elle est née en ligne sur le web, autrement dit : nativement numérique. C'était en 2003.
+La revue Sens Public est ce qu'on appelle un pure player, c'est-à-dire qu'elle est née en ligne sur le web, sans passer par la publication papier, autrement dit : nativement numérique. C'était en 2003.
 
-Le chantier actuel, presque 15 ans plus tard est donc ce qu'on appelle une refonte, c'est-à-dire qu'il s'agit d'un remaniement complet, tant sur le plan technique qu'éditorial. Il s'agit de reconstruire la revue, et pourquoi pas, en passant, de repenser ce que pourrait être une revue scientifique exploitant pleinement l'environnement numérique.
+Mais la singularité de ce pure player scientifique réside davantage dans sa
+« conception particulière de la production et de la circulation du savoir dans l’es-
+pace public à l’ère numérique ». Sens Public entend participer à la conversation
+scientifique en constituant une communauté active d’auteurs et de lecteurs aux
+horizons disciplinaires et géographiques pluriels, soucieuse d’adresser le monde
+contemporain dans toute sa complexité.
+
+Le chantier actuel, presque 15 ans plus tard est donc ce qu'on appelle une refonte, c'est-à-dire qu'il s'agit d'un remaniement complet, tant sur le plan technique qu'éditorial. Il s'agit de reconstruire la revue, et pourquoi pas, en passant, de repenser ce que pourrait être une revue scientifique exploitant pleinement l'environnement numérique. Ma réflexion se positionne ainsi dans une perspective de knowledge design, ou Design de la connaissances, définie par Schnapp, pour l’élaboration d’un espace public de savoir.
 
 §§§§§SLIDEmoveDown§§§§§
 
@@ -57,11 +65,11 @@ Le chantier actuel, presque 15 ans plus tard est donc ce qu'on appelle une refon
 
 ===
 
-Ce chantier se fait **dans un contexte de crise** pour la communication scientifique. Cette crise a de multiples facteurs. Le numérique, en transformant radicalement **le support d'inscription** des connaissances, vient bouleverser les institutions de savoirs puisqu'il vient modifier tout ce sur quoi ces institutions reposent, à savoir les processus de production et de validation des écritures.
+Ce chantier se fait **dans un contexte de crise** pour la communication scientifique, au sens crisis (discerner, décider, tournant). Le numérique, en transformant radicalement **le support d'inscription** des connaissances, vient bouleverser les institutions de savoirs puisqu'il vient modifier tout ce sur quoi ces institutions reposent, à savoir les écritures et les processus de production et de validation des écritures.
 
 C'est l'ensemble du cycle de la recherche qui est touché aujourd'hui, la collecte des données, leurs analyses, la production de connaissances, leur diffusion. A chacune de ces étapes, le numérique, c'est-à-dire tout à la fois, le _processeur_ comme technologie de calcul, le _réseau_ comme technologie de communication, et _le web_ comme technologie de publication, ont suscité de nouvelles pratiques au sein des communautés savantes, **redistribuant les cartes** de l'agencement classique entre institutions, dispositifs et supports et mettant à mal le modèle épistémologique traditionnel.
 
-Nous nous intéresserons ici principalement à cette étape particulière du cycle qu'est la communication scientifique.
+Nous nous intéresserons ici principalement à cette étape particulière du cycle qu'est la communication scientifique, où interviennent l'édition et la publication scientifique.
 
 <!-- En transformant radicalement le support d’inscription du savoir, le numérique transforme également les dispositifs d’écriture et de lecture, et dans le même temps suscitent de nouvelles pratiques au sein des communautés savantes.
 qui nous oblige à revisiter l’agencement classique entre institution, dispositif et support. -->
@@ -78,7 +86,7 @@ qui nous oblige à revisiter l’agencement classique entre institution, disposi
 Il y a notamment deux constats à faire, deux constats problématiques pour l'institution académique :
 
 1. d'une part, nous observons chez les chercheurs une hybridation de pratiques savantes ou académiques avec des pratiques non-académiques, pratiques qui prennent naissance avec l'émergence de nouveaux dispositifs numériques d’écriture et de lecture, et
-2. d'autre part, une certaine dérive (institutionnelle et économique) de la publication, qui a été progressivement soumise à des contraintes et des motivations de natures diverses, mais surtout de plus en plus éloignées de sa mission première, l’élévation des connaissances.
+2. d'autre part, une certaine dérive (institutionnelle et économique) de l'éditions avante, qui a été progressivement soumise à des contraintes et des motivations de natures diverses, mais surtout de plus en plus éloignées de sa mission première, l’élévation des connaissances.
 
 §§§§§SLIDEmoveDown§§§§§
 
@@ -89,7 +97,7 @@ Il y a notamment deux constats à faire, deux constats problématiques pour l'in
 <!-- .element class="petit imgvalign" -->
 
 ===
-Il est inutile de rappeler ici le combat systématique que mènent les éditeurs-rentiers, les éditeurs-goêliers pourrait-on dire, pour élever toujours plus hautes et plus chères les barrières empêchant l'accès à la connaissance. Je vous renvoie simplement à cette excellente vidéo de DataGueule.
+Je ne rappelle pas ici le combat systématique que mènent certains éditeurs-rentiers pour élever toujours plus hautes et plus chères les barrières empêchant l'accès à la connaissance. Je vous renvoie simplement à cette excellente vidéo de DataGueule.
 
 En ce qui nous concerne, c'est surtout l'institution qui est en cause, puisqu'elle continue de légitimer et de soutenir un modèle pervers basé sur un leitmotiv : _"publish or perish"_ et sur une métrique, l'_impact factor_, devenus l'alpha et l'omega de tout chercheur ambitieux. Ce qui entretient au passage les mêmes éditeurs-rentiers.
 
@@ -114,10 +122,9 @@ En ce qui nous concerne, c'est surtout l'institution qui est en cause, puisqu'el
 
 Nous observons donc deux tendances liées d'une manière très paradoxale : l'asphyxie de la publication traditionnelle qui semble coincée dans des priorités différentes de sa mission première, **et par ailleurs l'explosion des formes d'écritures**, formes qui ne peuvent encore pleinement rentrer dans la sphère institutionnelle, puisqu'elles ne sont pas légitimées par l'institution.
 
-On pourrait penser que la première victime de ce système est la conversation scientifique, pourtant c'est bien l'institution qui en pâtit le plus puisque la conversation, elle, se porte bien, mais hors de la sphère institutionnelle : **les lieux et les formes de la controverse** et du consensus échappent de plus en plus à cette institution.
+Je voudrais préciser pour ma relectrice, je parle ici de la publication du chercheur, cette étape de son travail qui consiste à formaliser sa pensée dans un format institutionnel : la monographie, l'article de revue, la communication en conférence.
 
-<!-- intégrer le mot de Larivière (mardi 9 mai 2017) : la revue comme «vecteur de capital symbolique» -->
-
+On pourrait penser que la première victime de ce paradoxe est la conversation scientifique, pourtant c'est bien l'institution qui en pâtit le plus puisque la conversation, elle, se porte bien, mais hors de la sphère institutionnelle : **les lieux et les formes de la controverse** et du consensus échappent de plus en plus à cette institution.
 
 §§§§§SLIDEmoveDown§§§§§
 ### un problème éditorial
@@ -164,8 +171,6 @@ Le support numérique présente des caractéristiques qui laissent entrevoir des
 
 Ces modalités nouvelles nous permettent d'envisager l'élaboration d'un modèle épistémologique propre au support numérique.
 
-Les recherches de Geoffrey et les expérimentations d'outils d'écriture tels que Spiral vont exactement dans ce sens.
-
 Je ne m'arrête pas sur toutes ces modalités, j'en liste ici quelques unes, qui ne sont d'ailleurs pas toutes sur le même plan, mais à titre d'exemple, je voudrais développer un point qui est revenu plusieurs fois dans nos ateliers de travail, avant de rentrer dans le coeur de la proposition que nous faisons avec le site Sens Public.
 
 
@@ -193,8 +198,8 @@ Ce changement de nature vient disrupter la notion de référence et tout le syst
 
 §§§§§SLIDEmoveDown§§§§§
 
-![LM_diff](img/LM_diff02.png) <!-- .element: class="noborder" width="60%" style="margin: 0 0;"-->
-![LM_diff](img/LM_diff03.png) <!-- .element: class="noborder" width="60%" style="margin: 0 0;"-->
+![LM_diff](img/LM_diff_sept17_03.png) <!-- .element: class="noborder" width="60%" style="margin: 0 0;"-->
+![LM_diff](img/LM_diff_sept17_02.png) <!-- .element: class="noborder" width="60%" style="margin: 0 0;"-->
 
 
 ===
@@ -205,7 +210,7 @@ Wikipédia en est l'exemple le plus évident, mais d'autres initiatives existent
 
 On saurait donc en théorie reconstruire un système bibliographique, c'est-à-dire un système solide de référence nécessaire au partage d'un socle commun de connaissance, et cela nous permet d'envisager un modèle épistémologoqie embrassant pleinement cette liquidité du texte.
 
-Dans cette phase de transition où les modèles papier et numérique cohabitent et s'hybrident, les choses ne sont pas si simples, et la stabilité du texte, même si celui-ci est mauvais, prime encore, notamment pour des raisons institutionelles.
+Dans cette phase de transition où les modèles papier et numérique cohabitent et s'hybrident, les choses ne sont pas si simples, et la stabilité du texte, même si celui-ci est mauvais (ou gagnerait à s'améliorer après publication), prime encore, notamment pour des raisons institutionelles.
 
     <!-- _Une des propriétés du support numérique étant notamment l’instabilité intrinsèque du texte, peut-on envisager un modèle épistémologique embrassant pleinement la liquidité du texte, dont chaque version pourrait être stockée, tracée, publiée, discutée ?
 
@@ -260,9 +265,9 @@ La revue s'est créée sous l'impulsion de Gérard Wormser avec plusieurs horizo
 * le multilinguisme et pluralité des langues, avec l'idée de dépasser les territoires dont nous parlait Jean Claude Guédon, d'intégrer des voix et des opinions plus lointaines
 * une conscience et une réflexion sur les transformations de l'espace public, travaillé notamment par les supports d'écriture et de lecture numérique.
 
-ici, je regrette un peu de ne pas avoir eu le temps de développer la réflexion sur l'espace public, je pense que ce sera pour une prochaine communication.
+<!-- ici, je regrette un peu de ne pas avoir eu le temps de développer la réflexion sur l'espace public, je pense que ce sera pour une prochaine communication. -->
 
-Ces différents horizons sont en fait au service d'une seule et même : la communauté Sens Public. COmmunauté que notre refonte souhaite remettre au centre de la revue.
+Ces différents horizons sont en fait au service d'une seule et même : la communauté Sens Public. COmmunauté que la refonte vise à remettre au centre de la revue.
 
 §§§§§SLIDEmoveDown§§§§§
 
@@ -371,7 +376,8 @@ Ces cinq axes définissent les grands principes de fonctionnement du site. Ces p
 
 Notre premier objectif consiste finalement à ouvrir au cœur de la revue un espace conséquent pour la conversation. L'espace de la revue serait donc à partager entre les articles, artefacts traditionnels de la revue, et la conversation.
 
-On pourrait bien-sûr adopter une approche encore plus radicale et imaginer une revue qui ne serait que conversation. La question a été posée d'installer par exemple une instance Mastodon dédiée.
+On pourrait bien-sûr adopter une approche encore plus radicale et imaginer une revue qui ne serait que conversation.
+<!-- La question a été posée d'installer par exemple une instance Mastodon dédiée. -->
 
 Mais pour le moment, la solution que nous envisageons instaure une cohabitation radicale de deux espaces, l'un documentaire, l'autre conversationnel. Le premier espace est organisé de façon très classique, centré sur les articles, eux-mêmes agencés en dossier et en rubriques. Le second espace, social et conversationnel est agencé autour de problématiques soulevées par la revue.
 
@@ -380,8 +386,6 @@ Pour nous aider à visualiser ces deux modalités de la revue, on peut les pense
 En fait, on parle bien du même espace, mais selon la porte d'entrée que l'on emprunte, les données s'organisent différemment, les architectures sont différentes. Autrement dit, on accède à deux _projections_ différentes du même espace, d'un même ensemble de contenus, l'une mettant l'accent sur les échanges sociaux, et l'autre sur les productions documentaires.
 
 Ces deux projections sous-tendent un réseau de données liées et des passerelles jalonnant les interfaces du site pour passer de l'une à l'autre. C'est dans ce maillage que réside tout l'enjeu de cette éditorialisation à double entrée.
-
-
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
@@ -422,7 +426,8 @@ Fluidifier tout en cristallisant, il y a là une alchimie très fine, une potion
 
 ===
 
-Sur la forme, nous n'en sommes encore qu'au stade des premiers croquis. Vos réactions à chaud seront donc les bienvenues.
+Sur la forme, nous n'en sommes encore qu'au stade des premiers croquis.
+<!-- Vos réactions à chaud seront donc les bienvenues. -->
 
 Nous imaginons ce cristal comme un objet à part entière dans la facette conversationnelle. Il est caractérisé par des mots-clés, et un titre, sous forme de problématique ou de controverse à adresser-.
 
@@ -436,13 +441,18 @@ mais aussi :
   * les personnes impliquées dans la conversation
   * les auteurs invoqués
 
-
 Ce schéma est un tout premier jet, il ne montre pas l'écosystème de plateformes que le cristal vient moissonner, les référentiels, les dépots, les indexes, il ne montre pas les différentes API, dont l'API qui requête l'archive Sens Public des articles.
 
-Si ce schéma montre simplement les éléments et les fragments constitutifs, leur éditorialisation reste encore à designer, à implémenter, à tester, et à enrichir. La question de son archivage mérite d'être posée, en lien avec son cycle de vie, dans le sens d'une forme longue, mais longue de sa temporalité et non de sa spatialité.
+Si ce schéma montre simplement les éléments et les fragments constitutifs, leur éditorialisation reste encore à designer, à implémenter, à tester, et à enrichir.
 
-La dimension temporelle du flux de la discussion reste structurante, mais doit s'articuler, on l'a dit, avec une dimension spatiale, celle de l'agencement des différents fragments du cristal.
+Son enjeu est l'articulation de la dimension temporelle du flux de la discussion avec la dimension spatiale de l'agencement des différents fragments du cristal.
 
+Je réagis ici à une remarque de Claire, dans ses commentaires :
+Ainsi notre objet Cristal redéfinit assez radicalement ce que pourrait être le savoir dans l'environnement numérique, comme a pu le faire Wikipédia dans un autre format et protocole éditorial. Or Claire me faisait remarquer une des fonctions de la revue, qui est de poser des jalons temporels dans la connaissance.
+
+Ce que j'associe à notre réflexion sur l'archivage des Conversations. On s'est rendu compte que la conception du cristal ne pouvait se faire sans penser en même temps la conception de son archive, en lien avec le cycle de vie de la conversation, dans le sens cette fois-ci d'une forme longue, mais longue non pas de sa spatialité, mais longue de sa temporalité, dans lequel ni le texte, ni ses multiples relations avec d'autres fragments n'ont à être figés.
+
+Je peux revenir sur ce point lors des questions (avec notre réflexion sur le format pivot dans SP.)
 
 §§§§§SLIDEmoveDown§§§§§
 <!-- ### articulation des éditorialisation algo/éditoriale/communautaire -->
@@ -481,6 +491,12 @@ https://fr.wikiversity.org/wiki/Projet:Journal_scientifique_libre
 ===
 J'en profite pour évoquer les initiatives comme celle-ci, de journal scientifique libre sur plateforme wiki.
 
+**Finir plutôt sur les 3 questions de Claire, à propos du cristal :
+1. le coût d'entrée dans la conversation pour un lecteur externe
+2. la forme de la communauté
+3. la gouvernance du vrai ou du faux, ou plutôt, la mise en place des conditions de possiblités de la conversation, davantage que les protocoles du vrai/faux**
+
+**+ sur les limites du cristal ?**
 
 Sur cette question précise de la fonction éditoriale, quel pourrait être le rôle éditorial de l'équipe éditoriale d'une revue-espace public ? Est-elle relégué à mobiliser, notifier, modérer ?
 Est-elle légitime pour décider de la cristallisation et de la dissolution de telle ou telle problématique ? Est-elle simplement destinée à orchestrer dans le temps ces cristaux, de la même manière qu'un média couvre un sujet d'actualité ?
